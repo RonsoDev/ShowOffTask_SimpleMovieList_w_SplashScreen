@@ -1,0 +1,6 @@
+
+‡squid:S13191"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(öþš¨
+Asquid:S00108)")Either remove or fill this block of code.(–ãÉ˜
+Hsquid:S00108t")Either remove or fill this block of code.(–ãÉ˜8€¼þ›Š-
+\squid:S2259,"@A "NullPointerException" could be thrown; "db" is nullable here.(¢ë¨µüÿÿÿÿ
+[squid:S2259?"DA "NullPointerException" could be thrown; "cursor" is nullable here.(êíÏŽ

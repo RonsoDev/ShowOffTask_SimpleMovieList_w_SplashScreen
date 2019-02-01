@@ -1,0 +1,21 @@
+
+n
+>app/src/main/java/com/solomonron/showofftask/MovieDetails.java,5\5\557f23879113e9dfba017f01f64e44e33ffbb7e6
+r
+Bapp/src/main/java/com/solomonron/showofftask/MovieListAdapter.java,f\f\ff2b2dc9c463ea75586f43921f221dec44dd3de5
+n
+>app/src/main/java/com/solomonron/showofftask/db/Constants.java,a\7\a7fdcdfb244b81ae0ed9469bc7b11e37472c95e2
+n
+>app/src/main/java/com/solomonron/showofftask/db/DBhandler.java,c\d\cd079d682e0b0ff8117a9b245150999dc2ae7014
+m
+=app/src/main/java/com/solomonron/showofftask/db/DBhelper.java,3\a\3a282e7e7247c43f19513959566b010de8431f3d
+j
+:app/src/main/java/com/solomonron/showofftask/db/Movie.java,a\e\ae7e0f84d3fb43ead052091601a61b665d89ff96
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+n
+>app/src/main/java/com/solomonron/showofftask/SplashScreen.java,b\b\bbe2e407a97af5fccdb3e4ed2dd28a5638b55649
+n
+>app/src/main/java/com/solomonron/showofftask/MainActivity.java,e\9\e99b3167d14cbd16adc3dc02613a1a5dab975424
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164

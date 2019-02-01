@@ -1,0 +1,8 @@
+
+wsquid:S1450"TRemove the "genre" field and declare it as a local variable in the relevant methods.(Ü‘±ôúÿÿÿÿ8’Ôº˜Š-
+lsquid:S1450"URemove the "rating" field and declare it as a local variable in the relevant methods.(¿ââ¼
+msquid:S1450"QRemove the "id" field and declare it as a local variable in the relevant methods.(ôç¼Óşÿÿÿÿ
+jsquid:S1450"SRemove the "year" field and declare it as a local variable in the relevant methods.(İĞ¦„
+jsquid:S1450"TRemove the "title" field and declare it as a local variable in the relevant methods.(ı«¶h
+esquid:UselessImportCheck	"5Remove this unused import 'android.widget.RatingBar'.(ØªÛŒıÿÿÿÿ8ÆÀƒ˜Š-
+ksquid:S1450"TRemove the "image" field and declare it as a local variable in the relevant methods.(İÈ½
